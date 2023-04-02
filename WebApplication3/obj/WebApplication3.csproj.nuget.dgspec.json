@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
+  },
+  "projects": {
+    "D:\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectName": "WebApplication3",
+        "projectPath": "D:\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
+        "outputPath": "D:\\WebApplication3\\WebApplication3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK.Comprehend": {
+              "target": "Package",
+              "version": "[3.7.103.4, )"
+            },
+            "AWSSDK.ComprehendMedical": {
+              "target": "Package",
+              "version": "[3.7.101.84, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.5, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.103.40, )"
+            },
+            "AWSSDK.Textract": {
+              "target": "Package",
+              "version": "[3.7.105.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

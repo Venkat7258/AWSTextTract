@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQfGJuuoHhkWOOMiaP+GkJO3FMoKBxARaAfQ6tAh+YRkC0nZkollIgZpHSly4Ew450vjIVzXGSP3GzwLy1NPfg==",
+  "success": true,
+  "projectFilePath": "D:\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin 2\\.nuget\\packages\\awssdk.comprehend\\3.7.103.4\\awssdk.comprehend.3.7.103.4.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\awssdk.comprehendmedical\\3.7.101.84\\awssdk.comprehendmedical.3.7.101.84.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\awssdk.core\\3.7.106.10\\awssdk.core.3.7.106.10.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.5\\awssdk.extensions.netcore.setup.3.7.5.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\awssdk.s3\\3.7.103.40\\awssdk.s3.3.7.103.40.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\awssdk.textract\\3.7.105.5\\awssdk.textract.3.7.105.5.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
